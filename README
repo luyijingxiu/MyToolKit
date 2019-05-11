@@ -1,2 +1,3 @@
 Batch---批处理工具
 	rotateImage.py---批量修改图片方向，但是并不完善，路径，文件范围，旋转角度是硬编码
+	FormOCR---图片转Excel的Java项目，使用百度的接口
